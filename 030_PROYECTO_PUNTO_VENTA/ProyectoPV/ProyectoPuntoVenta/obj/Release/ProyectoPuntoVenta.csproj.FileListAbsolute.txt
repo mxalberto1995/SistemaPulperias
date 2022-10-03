@@ -1,0 +1,106 @@
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ProyectoPuntoVenta.exe.config
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ProyectoPuntoVenta.exe
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ProyectoPuntoVenta.pdb
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ClosedXML.dll
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ExcelNumberFormat.dll
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\System.IO.Packaging.dll
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ClosedXML.pdb
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ClosedXML.xml
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ExcelNumberFormat.xml
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.AssemblyReference.cache
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.SuggestedBindingRedirects.cache
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.Form1.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmCliente.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmCompra.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmGestion.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmProveedor.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmReporte.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmUsuario.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmVenta.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ImprimirVenta.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.Login.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ModalAcercade.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ModalPersona.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ModalProducto.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ModalProveedor.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.Properties.Resources.resources
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.GenerateResource.cache
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.CoreCompileInputs.cache
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.CopyComplete
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.exe
+C:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.pdb
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ProyectoPuntoVenta.exe.config
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ProyectoPuntoVenta.exe
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ProyectoPuntoVenta.pdb
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ClosedXML.dll
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\DocumentFormat.OpenXml.dll
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ExcelNumberFormat.dll
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\System.IO.FileSystem.Primitives.dll
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\System.IO.Packaging.dll
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ClosedXML.pdb
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ClosedXML.xml
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\DocumentFormat.OpenXml.xml
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ExcelNumberFormat.xml
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.AssemblyReference.cache
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.SuggestedBindingRedirects.cache
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.Form1.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmCliente.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmCompra.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmGestion.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmProveedor.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmReporte.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmUsuario.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmVenta.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ImprimirVenta.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.Login.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ModalAcercade.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ModalPersona.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ModalProducto.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ModalProveedor.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.Properties.Resources.resources
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.GenerateResource.cache
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.CoreCompileInputs.cache
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.CopyComplete
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.exe
+F:\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.pdb
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ClosedXML.dll
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ExcelNumberFormat.dll
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\System.IO.Packaging.dll
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ClosedXML.pdb
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ClosedXML.xml
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\ExcelNumberFormat.xml
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.AssemblyReference.cache
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.SuggestedBindingRedirects.cache
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.Form1.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmCliente.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmCompra.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmGestion.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmProveedor.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmReporte.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmUsuario.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.frmVenta.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ImprimirVenta.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.Login.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ModalAcercade.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ModalPersona.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ModalProducto.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.ModalProveedor.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.Properties.Resources.resources
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.GenerateResource.cache
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.CoreCompileInputs.cache
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\ProyectoPuntoVenta.csproj.CopyComplete
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\Essensse 1.0.090622.exe.config
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\Essensse 1.0.090622.exe.manifest
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\Essensse 1.0.090622.application
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\Essensse 1.0.090622.exe
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Release\Essensse 1.0.090622.pdb
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\Essensse 1.0.090622.exe.manifest
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\Essensse 1.0.090622.application
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\Essensse 1.0.090622.exe
+C:\Essensse Pulperias Construccion 2\Essensse Pulperias\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Release\Essensse 1.0.090622.pdb
